@@ -1,5 +1,5 @@
 ## ToDo APP
->Simple typical common usual ordenary  ToDo app
+>Simple typical common usual ordenary  ToDo app\n
 >Take a look at GitHub pages [right here](https://ic3top.github.io/ToDo_app/)
 
 
