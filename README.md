@@ -1,6 +1,6 @@
 ## ToDo APP
 >Simple typical common usual ordenary  ToDo app
->>Take a look at GitHub pages [right here](https://ic3top.github.io/ToDo_app/)
+>Take a look at GitHub pages [right here](https://ic3top.github.io/ToDo_app/)
 
 
 Main facts:
